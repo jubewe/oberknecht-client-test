@@ -1,0 +1,26 @@
+{
+  "name": "oberknecht-client-sample",
+  "version": "0.0.1",
+  "description": "Sample bot of package oberknecht-client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jubewe/oberknecht-client-test.git"
+  },
+  "keywords": [
+    "oberknecht-client",
+    "oberknecht-client-test"
+  ],
+  "author": "Jubewe",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/jubewe/oberknecht-client-test/issues"
+  },
+  "homepage": "https://github.com/jubewe/oberknecht-client-test#readme",
+  "dependencies": {
+    "oberknecht-client": "^0.0.7-4"
+  }
+}
